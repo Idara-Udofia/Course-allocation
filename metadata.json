@@ -1,0 +1,5 @@
+{
+  "name": "Course Allocation & Resource Management System",
+  "description": "A comprehensive system for managing course allocations, lecturer schedules, and departmental resources for a Computer Science department. It features role-based access for administrators and lecturers, and an AI-powered reporting module for insightful analysis.",
+  "requestFramePermissions": []
+}
