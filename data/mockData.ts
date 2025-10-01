@@ -6,7 +6,7 @@ export const mockLecturers: Lecturer[] = [
   { id: 'lec2', name: 'Mfon Essang', title: 'Mrs.', specialization: ['Computer Application Package II', 'Management Information System'] },
   { id: 'lec3', name: 'Akaninyene Udo', title: 'Mr.', specialization: ['Introduction to Computing', 'Basic Computer Network'] },
   { id: 'lec4', name: 'Tope Godwin', title: 'Mr.', specialization: ['Unified Modeling Language', 'Web Technology'] },
-  { id: 'lec5', name: 'Habeeb Rahmon', title: 'Ms.', specialization: ['Introduction to Digital Electronics'] },
+  { id: 'lec5', name: 'Habeeb Rahmon', title: 'Mr.', specialization: ['Introduction to Digital Electronics'] },
 ];
 
 export const mockCourses: Course[] = [

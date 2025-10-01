@@ -38,10 +38,10 @@ const ReportGenerator: React.FC<ReportGeneratorProps> = ({ data }) => {
   };
 
   const examplePrompts = [
-    "List all unassigned courses.",
-    "Show the workload for each lecturer, including total courses and credits.",
-    "Which lecturer is assigned to 'Artificial Intelligence'?",
-    "Provide a summary of course distribution for the HND II level."
+    "List all Assigned courses.",
+    "Show the workload for each Lecturer, Including total courses and credits.",
+    "Which Lecturer is assigned to Programming Using Java II?",
+    "Provide a summary of course distribution for the ND II level."
   ];
 
   return (
